@@ -1,2 +1,3 @@
 # SideCause
-Parker Close - peclose
+
+- Parker Close - [peclose](https://github.com/peclose)
