@@ -8,7 +8,7 @@
 * [MedCheck]()
 * [PrismaticLauncher]()
 * [QuickCop]()
-* [SideCause](teams/SideCause.md)
+* [SideCause](teams/sidecause.md)
 * [SkillStreak]()
 * [SkyTracker]()
 * [Sunlight]()
